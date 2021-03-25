@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="4" total="5" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="94821" started-at="2021-03-24T15:27:07 IST" finished-at="2021-03-24T15:28:41 IST">
+  <suite name="Suite" duration-ms="89024" started-at="2021-03-24T17:05:32 IST" finished-at="2021-03-24T17:07:01 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="94821" started-at="2021-03-24T15:27:07 IST" finished-at="2021-03-24T15:28:41 IST">
+    <test name="Test" duration-ms="89024" started-at="2021-03-24T17:05:32 IST" finished-at="2021-03-24T17:07:01 IST">
       <class name="appiumFramework.Demos">
-        <test-method status="PASS" signature="bt()[pri:0, instance:appiumFramework.Demos@7cbd213e]" name="bt" is-config="true" duration-ms="5042" started-at="2021-03-24T15:27:07 IST" finished-at="2021-03-24T15:27:12 IST">
+        <test-method status="PASS" signature="bt()[pri:0, instance:appiumFramework.Demos@7cbd213e]" name="bt" is-config="true" duration-ms="5040" started-at="2021-03-24T17:05:32 IST" finished-at="2021-03-24T17:05:37 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- bt -->
-        <test-method status="PASS" signature="testcase5()[pri:0, instance:appiumFramework.Demos@7cbd213e]" name="testcase5" duration-ms="89551" started-at="2021-03-24T15:27:12 IST" finished-at="2021-03-24T15:28:41 IST">
+        <test-method status="PASS" signature="testcase5()[pri:0, instance:appiumFramework.Demos@7cbd213e]" name="testcase5" duration-ms="83892" started-at="2021-03-24T17:05:37 IST" finished-at="2021-03-24T17:07:01 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testcase5 -->
-        <test-method status="PASS" signature="at()[pri:0, instance:appiumFramework.Demos@7cbd213e]" name="at" is-config="true" duration-ms="133" started-at="2021-03-24T15:28:41 IST" finished-at="2021-03-24T15:28:41 IST">
+        <test-method status="PASS" signature="at()[pri:0, instance:appiumFramework.Demos@7cbd213e]" name="at" is-config="true" duration-ms="30" started-at="2021-03-24T17:07:01 IST" finished-at="2021-03-24T17:07:01 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- at -->
